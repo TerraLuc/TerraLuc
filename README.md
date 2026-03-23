@@ -41,5 +41,11 @@
    alt="csharp"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
   />
+  <img
+    style="width: 50px; height: 50px" 
+    alt="git" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
+  />
+
 
 </p>
