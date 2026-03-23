@@ -52,6 +52,11 @@
     src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" 
   />
   <img 
+    style="width: 50px; height: 50px"
+    alt="linux" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+  />
+  <img 
     style="width: 50px; height: 50px" 
     alt="microsoft 365" 
     src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" 
