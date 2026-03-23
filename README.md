@@ -37,6 +37,11 @@
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   /> 
   <img 
+    style="width: 50px; height: 50px" 
+    alt="api" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+  />
+  <img 
    style="width: 50px; height: 50px" 
    alt="mysql"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
