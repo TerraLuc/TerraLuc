@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luca</h1>  
+<h1>Hi, I'm Luc</h1>  
 <p>A Fullstack Web & App developer from Germany</p>  
 <p>  
   <img 
