@@ -37,11 +37,6 @@
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   /> 
   <img 
-    style="width: 50px; height: 50px" 
-    alt="api" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
-  />
-  <img 
    style="width: 50px; height: 50px" 
    alt="mysql"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
@@ -58,11 +53,6 @@
   />
   <img 
     style="width: 50px; height: 50px" 
-    alt="azure" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" 
-  />
-  <img 
-    style="width: 50px; height: 50px" 
     alt="microsoft 365" 
     src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" 
   />
@@ -75,10 +65,5 @@
     style="width: 50px; height: 50px"
     alt="linux" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-  />
-  <img 
-    style="width: 50px; height: 50px" 
-    alt="microsoft 365" 
-    src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" 
   />
 </p>
