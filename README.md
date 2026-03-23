@@ -53,6 +53,11 @@
   />
   <img 
     style="width: 50px; height: 50px" 
+    alt="azure" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" 
+  />
+  <img 
+    style="width: 50px; height: 50px" 
     alt="microsoft 365" 
     src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" 
   />
