@@ -46,6 +46,9 @@
     alt="git" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
   />
-
-
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="microsoft 365" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" 
+  />
 </p>
