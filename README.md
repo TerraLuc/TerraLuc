@@ -18,6 +18,11 @@
   />
   <img 
     style="width: 50px; height: 50px" 
+    alt="css3" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+  />
+  <img 
+    style="width: 50px; height: 50px" 
     alt="react"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg"
   />
